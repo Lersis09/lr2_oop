@@ -84,5 +84,4 @@ def task_12():
              print("Ряд розбігається")
              break
 
-if __name__ == "__main__":
-  task_series1()
+
